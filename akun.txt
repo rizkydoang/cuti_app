@@ -1,0 +1,7 @@
+karyawan
+nip - 1234555
+pass - 1234555
+
+kabag
+nip - 12345
+pass - 12345
